@@ -1,1 +1,1 @@
-cd file8.txt E:\
+move file8.txt E:\
