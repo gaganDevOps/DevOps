@@ -1,1 +1,0 @@
-copy file8.txt E:\
