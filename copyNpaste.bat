@@ -1,1 +1,1 @@
-copy file8.txt E:\
+copy E:\ file8.txt 
